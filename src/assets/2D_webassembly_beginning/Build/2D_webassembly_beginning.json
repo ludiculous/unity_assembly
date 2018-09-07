@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "2D_webassembly_beginning.data.unityweb",
+"wasmCodeUrl": "2D_webassembly_beginning.wasm.code.unityweb",
+"wasmFrameworkUrl": "2D_webassembly_beginning.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
